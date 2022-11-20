@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "config",
+      "type": "properties.TestProperties",
+      "sourceType": "properties.TestProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "config.message",
+      "type": "java.lang.String",
+      "sourceType": "properties.TestProperties"
+    },
+    {
+      "name": "config.properties",
+      "type": "java.util.HashMap<java.lang.String,java.util.Properties>",
+      "sourceType": "properties.TestProperties"
+    }
+  ],
+  "hints": []
+}

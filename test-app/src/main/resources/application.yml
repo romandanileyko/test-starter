@@ -1,0 +1,9 @@
+config:
+  message: "Hello My First Spring Starter!"
+  properties:
+    service1:
+      propertyService1: valueService1
+    service2:
+      propertyService2: valueService2
+    serviceN:
+      propertyServiceN: valueServiceN

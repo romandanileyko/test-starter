@@ -1,0 +1,4 @@
+service/TestService.class
+META-INF/spring-configuration-metadata.json
+configuration/TestAutoConfiguration.class
+properties/TestProperties.class
