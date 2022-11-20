@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>mystarter</module>
+        <module>test-app</module>
     </modules>
 
     <properties>
